@@ -10,4 +10,4 @@ Diabetes Prediction is a **machine learning** project that predicts the likeliho
 - **Generates accuracy and performance metrics**
 
 ## Demo
-![Demo image](Screenshot 2025-02-05 081054.png)
+![Demo image](Screenshot%202025-02-05%20081054.png)
